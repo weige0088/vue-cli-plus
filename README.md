@@ -25,4 +25,5 @@ An enhanced version of vue-cli.
 - Support mock data
 - Support vue router's lazy loading
 - Add localStorage and sessionStorage plugins
+
 ...
